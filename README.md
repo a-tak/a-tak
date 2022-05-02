@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @a-tak
+- 👀 I’m interested in DaVinci Resolve
+- 🌱 I’m currently learning DaVinci Resolve
